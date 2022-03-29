@@ -30,7 +30,7 @@ jsonpickle==0.9.6
 lockfile==0.12.2
 olefile==0.44
 pipenv==2020.8.13
-poetry==1.0.10
+poetry==1.1.9
 prospector==0.12.7
 psycopg2==2.8.5
 pymongo==3.6.1
